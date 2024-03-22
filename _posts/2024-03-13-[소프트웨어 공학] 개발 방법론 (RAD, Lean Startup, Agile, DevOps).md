@@ -1,5 +1,5 @@
 ---
-title : "[소프트웨어 공학] 소프트웨어 개발 방법론"
+title : "[소프트웨어 공학] 소프트웨어 개발 방법론 개발 방법론 (RAD, Lean Startup, Agile, DevOps)"
 date : 2024-03-13 10:23:00 +0900
 categories : [소프트웨어 공학, 정리]
 tags : [software engineering] #소문자만 가능
@@ -57,7 +57,7 @@ RAD vs Waterfall 비교
 
 #### 2.2 Lean Startup Process
 
-```아이디어 (가설 설정)``` -> ```만들기 (MVP를 통한 가설 검증)``` ->``` 제품``` -> ```측정``` -> ```데이터``` ->``` 학습
+```아이디어 (가설 설정)``` -> ```만들기 (MVP를 통한 가설 검증)``` ->``` 제품``` -> ```측정``` -> ```데이터``` -> ```학습```
 
 **<ins>MVP (Minimum Viable Product)</ins>**
 
