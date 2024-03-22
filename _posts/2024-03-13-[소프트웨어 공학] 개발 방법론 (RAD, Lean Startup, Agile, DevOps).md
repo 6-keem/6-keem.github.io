@@ -1,11 +1,14 @@
 ---
-title : "[소프트웨어 공학] 개발 방법론 (RAD, Lean Startup, Agile, DevOps)"
-date : 2024-03-13 00:01:00 +0900
+title : "[소프트웨어 공학] 소프트웨어 개발 방법론"
+date : 2024-03-13 10:23:00 +0900
 categories : [소프트웨어 공학, 정리]
 tags : [software engineering] #소문자만 가능
 toc: true
 toc_sticky: true
-published : false
+published : true
+---
+
+## 소프트웨어 개발 방법론
 
 ---
 
@@ -141,7 +144,7 @@ Watefall - **전통적/순차적인 개발 모델**으로 **문제가 잘 정의
 
 #### 3.6 Agile Principles 
 
-Todo :
+https://agilemanifesto.org/iso/ko/principles.html
 
 
 
@@ -293,8 +296,4 @@ commit -> fetch changes -> build -> test -> result
 
 * 소수의 사용자에게만 배포되기 때문에 **blue green보다 상대적으로 영향이 적음**
 * Capacity testing 수행
-
-
-
-Q. 반복주기 산출물이 내부 개발자가 관리하는 것인데 피드백을 받는 것은 고객에게 받는 것인지?
 
