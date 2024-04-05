@@ -1,3 +1,13 @@
+---
+title : "[소프트웨어 공학] Requirements (요구사항)"
+date : 2024-03-25 00:01:00 +0900
+categories : [소프트웨어 공학, 정리]
+tags : [software engineering] #소문자만 가능
+toc: true
+toc_sticky: true
+published : true
+---
+
 ## 1. 요구 사항 (Requirements)
 
 ---
