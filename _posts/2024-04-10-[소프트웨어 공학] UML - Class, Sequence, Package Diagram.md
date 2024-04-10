@@ -166,10 +166,3 @@ Sequence Diagram : 행위 모델링
 * A패키지를 B패키지 없이 단독 재사용 불가능
 
 ![packagediagramimport](https://github.com/6-keem/BlogImageRepository/assets/113224939/dfa3aee2-2612-402d-94e6-88206bfed9c3)
-
-클래스 사용 - 의존
-
-클래스 상속 - 단방향 연관, 일반화
-
-인터페이스 구현 - 실체화
-
