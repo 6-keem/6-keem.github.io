@@ -40,7 +40,8 @@ where position = '교수' and prof_id not in (select prof_id
 select s.stu_id, s.name, d.dept_name
 from student s, department d
 where s.dept_id = d.dept_id and s.stu_id not in (select stu_id
-                                                from takes);
+                                                from takes t, class c 
+                                                where t.class_id = c.class_id and year = 2012 and semester = 1);
 ```
 
 ![1-3](https://github.com/6-keem/BlogImageRepository/assets/113224939/ddb06204-0611-4241-81a1-613fa1b32d68)
@@ -82,7 +83,7 @@ where year_emp >= all (select year_emp
 ```sql
 select s1.name, s2.name
 from student s1, student s2
-where s1.address = s2.address and s1.name < s2.name;
+where s1.address = s2.address and s1.dept_id = s2.dept_id and s1.name < s2.name;
 ```
 
 ![1-7](https://github.com/6-keem/BlogImageRepository/assets/113224939/01efcd86-8178-4b97-a5ea-e3a3bf3529d6)
