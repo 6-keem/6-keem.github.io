@@ -166,3 +166,17 @@ Sequence Diagram : 행위 모델링
 * A패키지를 B패키지 없이 단독 재사용 불가능
 
 ![packagediagramimport](https://github.com/6-keem/BlogImageRepository/assets/113224939/dfa3aee2-2612-402d-94e6-88206bfed9c3)
+
+
+
+## 표현법 정리
+
+| 관계                                              | 사용                                         | 표현                |
+| ------------------------------------------------- | -------------------------------------------- | ------------------- |
+| Assosiation (지속적 관계) (<ins>link라고함</ins>) | 속성으로 참조                                | 실선                |
+| Dependency (extended, included ...) (찰나의 관계) | 특정 조건 만족 시 or 함수 내 지역변수로 사용 | 점선                |
+| Generalization (일반화)                           | is a kind of로 상속 관계                     | 빈 세모 화살표      |
+| Aggregration (약한 집합)                          | 각 요소들이 하나로 구성될 때 / 독립 O        | 빈 마름모           |
+| Composition (강한 집합)                           | 각 요소들이 하나로 구성될 때 / 독립 X        | 찬 마름모           |
+| Realization (실체화)                              | 인터페이스 implement 해야함                  | 빈 점선 세모 화살표 |
+
