@@ -2,7 +2,7 @@
 title : "[Android] GPS 좌표 값 얻기 + Reverse Geocoding"
 date : 2024-05-02 23:06:00 +0900
 categories : [Android]
-tags : [Android, gps, reverse geocoding] #소문자만 가능
+tags : [android, gps, reverse geocoding] #소문자만 가능
 toc: true
 toc_sticky: true
 published : true
