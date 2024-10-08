@@ -1,4 +1,4 @@
-```yml
+```
 title : "[AWS / Deployment] EC2 생성 및 접속"
 date : 2024-10-08 12:04:00 +0900
 categories : [aws, 배포]
