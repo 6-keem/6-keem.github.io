@@ -1,12 +1,13 @@
-```
-title : "[AWS / Deployment] EC2 생성 및 접속"
-date : 2024-10-08 12:04:00 +0900
-categories : [aws, 배포]
-tags : [aws, ec2, backend, deployment] #소문자만 가능
+---
+title : "[AWS] EC2 생성 및 접속"
+date : 2024-10-08 12:12:00 +0900
+categories : [AWS, Deployment]
+tags : [aws] #소문자만 가능
 toc: true
 toc_sticky: true
 published : true
-```
+---
+
 # [AWS] EC2 생성 및 접속
 
 ### 들어가기에 앞서
