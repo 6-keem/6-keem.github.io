@@ -24,7 +24,7 @@ AWS(Amazon Web Services)는 클라우드 컴퓨팅을 통해 다양한 서비스
 인스턴스 생성은 다른 블로그에서 많이 다루고 있는 내용이니 생략하겠다.
 
 보안 규칙은 다음과 같이 설정해둔다
-![](2024-10-08-%5BAWS%20:%20Deployment%5D%20EC2%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8C%E1%85%A5%E1%86%B8%E1%84%89%E1%85%A9%E1%86%A8/image%202.png)
+<img width="1170" alt="image 2" src="https://github.com/user-attachments/assets/80d6e825-dce5-400c-a47a-9ef298c899b7">
 
 ### EC2 Instance Console에 접속
 인스턴스 생성 시 발급 받은 pem 키가 있을 것이다. 
@@ -39,5 +39,5 @@ chmod 400 이름.pem
 ssh -i /경로/이름.pem ec2-user@인스턴스-퍼블릭-ip
 ~~~
 
-![](2024-10-08-%5BAWS%20:%20Deployment%5D%20EC2%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8C%E1%85%A5%E1%86%B8%E1%84%89%E1%85%A9%E1%86%A8/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-10-07%2013.44.06.png)
+<img width="874" alt="스크린샷 2024-10-07 13 44 06" src="https://github.com/user-attachments/assets/c42a98a3-e11e-4320-ab85-165b32fbbe3a">
 
