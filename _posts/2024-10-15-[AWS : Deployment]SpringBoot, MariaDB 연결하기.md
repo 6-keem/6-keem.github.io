@@ -126,5 +126,7 @@ services:
       - ./src/main/resources/application.yml:/app/config/application.yml
     command: [ "java", "-jar", "app.jar", "--spring.config.location=file:/app/config/application.yml" ]
 ```
-![](2024-10-08-%5BAWS%20:%20Deployment%5DSpringBoot,%20MariaDB%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%AF%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/image%202.png)
+
+<img width="1143" alt="image 2" src="https://github.com/user-attachments/assets/2cbe0a4b-ac4a-4000-97a8-115ae924d7be">
+
 ## 🔥 dbeaver 접속 성공
