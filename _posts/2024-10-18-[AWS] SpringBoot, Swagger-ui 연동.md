@@ -72,6 +72,7 @@ public class SwaggerConfig {
 ```
 
 
-![](2024-10-18-%5BAWS%5D%20SpringBoot,%20Swagger-ui%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC/image.png)
+<img width="1082" alt="image" src="https://github.com/user-attachments/assets/490dc3c2-7fb9-41ce-89d7-2f91fe9bf42c">
+
 
 ## ✨  접속 성공
